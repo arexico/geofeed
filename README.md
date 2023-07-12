@@ -1,4 +1,4 @@
-![Arexion](https://cdn.discordapp.com/attachments/979354743593910272/1127338719574241331/arexion_full_2.png)
+![Arexion](https://camo.githubusercontent.com/26742fd0e14aeade73fbbd92bb9453b6bfd6e6b5ff67539bcb5d68483cfa7a79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937393335343734333539333931303237322f313132373333383731393537343234313333312f61726578696f6e5f66756c6c5f322e706e67)
 # Arexion Geofeed
 
 [![License](https://img.shields.io/github/license/arexioncom/geofeed)](https://github.com/arexioncom/geofeed/blob/main/LICENSE)
